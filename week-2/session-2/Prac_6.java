@@ -18,4 +18,4 @@ public class Prac_6 {
 
         scan.close();
     }
-}
+}   
